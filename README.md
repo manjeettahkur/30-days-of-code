@@ -2,8 +2,9 @@
 
 
 #### https://www.hackerrank.com/challenges/30-data-types/problem
-#### IDE : GoLand 2018.3
-#### OS : Ubuntu
+#### IDE : `GoLand 2018.3`
+#### OS : `Ubuntu`
 
 
-## Day 1 :- Data Types
+##### Day 1 :- Data Types
+##### Day 2 :- Day 2: Operators
